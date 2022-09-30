@@ -4,3 +4,4 @@ resource "aws_ssm_parameter" "bard" {
     value = "bar4"
 
 }
+
