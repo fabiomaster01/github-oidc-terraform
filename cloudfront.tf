@@ -1,5 +1,5 @@
 resource "aws_s3_bucket" "b" {
-  bucket = "fmbucketterra"
+  bucket = "fmbucketterra1"
 
   tags = {
     Name = "My bucket"
